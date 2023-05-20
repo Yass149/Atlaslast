@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import {Routes, Route } from 'react-router-dom';
 
-import { supabase } from './config/supabaseClient'
+import { supabase } from './config/supabaseClient';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
