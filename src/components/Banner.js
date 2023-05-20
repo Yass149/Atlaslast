@@ -15,7 +15,7 @@ const Banner = () => {
         </span>Your Dream House With Us.
         </h1>
         <p className='max-w-[480px] mb-8'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis magnam est autem minus expedita accusantium quam fugit distinctio molestias incidunt!  
+        Connecting You to Your Dream Home, Every Step of the Way  
         </p>
       </div>
       <div className='hidden flex-1 lg:flex justify-end items-end'>

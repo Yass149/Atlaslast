@@ -60,7 +60,7 @@ export const housesData = [
     type: 'House',
     name: 'House 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Experience the sublime blend of luxury and comfort in this stunning 6 bedroom, 3 bathroom house, nestled in a serene Lawndale neighborhood. The property boasts of a sprawling 4200 sq ft, exuding opulence at every corner. Built in 2016, the house maintains a remarkable condition and stands ready to welcome you home.',
     image: House1,
     imageLg: House1Lg,
     country: 'United States',
@@ -81,7 +81,7 @@ export const housesData = [
     type: 'House',
     name: 'House 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Welcome to this enchanting 6-bedroom, 3-bathroom residence located in the tranquil environs of Bridgewater. Spread across 4200 sq ft, this house reflects a masterful design and modern luxury. With a construction date in 2016, the property promises pristine living conditions, just for you.',
     image: House2,
     imageLg: House2Lg,
     country: 'Canada',
@@ -102,7 +102,7 @@ export const housesData = [
     type: 'House',
     name: 'House 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Luxury meets convenience in this 6 bedroom, 3 bathroom home in Alexandria. Enjoy the spacious 4200 sq ft of living space, designed for a modern lifestyle. Built in 2016, this house promises a stellar living experience in a home that feels brand new.',
     image: House3,
     imageLg: House3Lg,
     country: 'United States',
@@ -123,7 +123,7 @@ export const housesData = [
     type: 'House',
     name: 'House 4',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Embrace a luxurious lifestyle in this beautiful 6 bedroom, 3 bathroom home in Cocoa. With an ample surface area of 4200 sq ft and built in 2016, this house represents a harmonious blend of luxury, comfort, and style.',
     image: House4,
     imageLg: House4Lg,
     country: 'Canada',
@@ -144,7 +144,7 @@ export const housesData = [
     type: 'House',
     name: 'House 5',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Indulge in the grandeur of this beautiful 5 bedroom, 3 bathroom home located in Warminster. With a generous 4200 sq ft layout, this 2015-built house promises spaciousness and comfort in a beautiful neighborhood.',
     image: House5,
     imageLg: House5Lg,
     country: 'United States',
@@ -165,7 +165,7 @@ export const housesData = [
     type: 'House',
     name: 'House 6',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Immerse yourself in the world of comfort and luxury in this sprawling 6 bedroom, 3 bathroom home in Butte. This 6200 sq ft property, built in 2014, delivers on all fronts.',
     image: House6,
     imageLg: House6Lg,
     country: 'Canada',
@@ -186,7 +186,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Experience the epitome of urban living in this chic 2 bedroom, 1 bathroom apartment in Butte. With a comfortable 1200 sq ft of living space and built in 2012, this apartment brings together convenience and modern living.',
     image: Apartment1,
     imageLg: Apartment1Lg,
     country: 'Canada',
@@ -207,7 +207,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Step into a world of comfort in this elegantly designed 3 bedroom, 1 bathroom apartment in Warminster. Spanning 1000 sq ft, this 2011-built property offers an urban living experience par excellence.',
     image: Apartment2,
     imageLg: Apartment2Lg,
     country: 'United States',
@@ -228,7 +228,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Discover an immersive living experience in this beautifully designed 2 bedroom, 1 bathroom apartment in Cocoa. Offering 1100 sq ft of space and built in 2011, this apartment is the perfect intersection of style, space, and convenience.',
     image: Apartment3,
     imageLg: Apartment3Lg,
     country: 'United States',
@@ -249,7 +249,7 @@ export const housesData = [
     type: 'House',
     name: 'House 7',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Bask in the luxury of this stunning 5 bedroom, 3 bathroom home in Lawndale. Spanning 3200 sq ft and built in 2015, this house offers the perfect mix of space and style.',
     image: House7,
     imageLg: House7Lg,
     country: 'Canada',
@@ -270,7 +270,7 @@ export const housesData = [
     type: 'House',
     name: 'House 8',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Explore the heights of comfort in this beautiful 7 bedroom, 2 bathroom home in Bridgewater. With a generous 2200 sq ft layout and built in 2019, this house stands ready to become your perfect family home.',
     image: House8,
     imageLg: House8Lg,
     country: 'Canada',
@@ -291,7 +291,7 @@ export const housesData = [
     type: 'House',
     name: 'House 9',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Uncover a unique blend of comfort and style in this gorgeous 4 bedroom, 4 bathroom home in Alexandria. With 4600 sq ft of living space and built in 2015, this house is the epitome of luxury living.',
     image: House9,
     imageLg: House9Lg,
     country: 'United States',
@@ -312,7 +312,7 @@ export const housesData = [
     type: 'House',
     name: 'House 10',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Step into the world of luxury in this spectacular 5 bedroom, 2 bathroom home in Cocoa. Built in 2014 and spanning.',
     image: House10,
     imageLg: House10Lg,
     country: 'Canada',
@@ -333,7 +333,7 @@ export const housesData = [
     type: 'House',
     name: 'House 11',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'A splendid 5-bedroom house located at 32 Pawnee Street, Butte, MT 59701 in Canada. The house covers a vast surface area of 4800 sq ft. Built in 2016, the house includes 4 bathrooms and is priced at $220,000. Agent responsible: Karen Sorensen.',
     image: House11,
     imageLg: House11Lg,
     country: 'United States',
@@ -354,7 +354,7 @@ export const housesData = [
     type: 'House',
     name: 'House 12',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'This compact, stylish apartment is situated in Canada, at 32 Pawnee Street, Butte, MT 59701. It includes 3 bedrooms and 1 bathroom over 900 sq ft of space. Built in 2010, this apartment is priced at $20,000. Agent responsible: Jawhar Shamil Naser.',
     image: House12,
     imageLg: House12Lg,
     country: 'Canada',
@@ -375,7 +375,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 16',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Located in United States, at 28 Westport Dr. Warminster, PA 18974, this apartment boasts 3 bedrooms and 1 bathroom. With a total of 950 sq ft of living space, the apartment, built in 2012, is listed at $30,000. Agent responsible: Juana Douglass.',
     image: Apartment4,
     imageLg: Apartment4Lg,
     country: 'Canada',
@@ -396,7 +396,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 17',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'This 2-bedroom apartment is located in United States, at 84 Woodland St. Cocoa, FL 32927. It includes 1 bathroom and offers 1000 sq ft of living space. Built in 2012, this apartment is priced at $35,000. Agent responsible: Jerry Schenck.',
     image: Apartment5,
     imageLg: Apartment5Lg,
     country: 'United States',
@@ -417,7 +417,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 18',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'This grand 6-bedroom house is situated in Canada, at 7240C Argyle St. Lawndale, CA 90260. With 3 bathrooms, the house spans an impressive 3800 sq ft. Constructed in 2017, the house is listed at $120,000. Agent responsible: Patricia Tullert.',
     image: Apartment6,
     imageLg: Apartment6Lg,
     country: 'Canada',
